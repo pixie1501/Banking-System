@@ -7,7 +7,7 @@ if($sender==$receiver)
 {
      echo("
      <script>
-     alert('Something Went Wrong!!!shut up')
+     alert('Something Went Wrong!!!Please try again')
      window.location.href='index.html'
      </script>
      ");
@@ -23,7 +23,7 @@ else
     {
         echo("
         <script>
-        alert('Something Went Wrong!!!ufff')
+        alert('Something Went Wrong!!!please try again')
         window.location.href='index.html'
         </script>
         ");
